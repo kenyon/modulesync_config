@@ -1,4 +1,5 @@
 ---
+- kenyon/puppet-powerwall_dashboard
 - puppet-allknowingdns
 - puppet-alternatives
 - puppet-amanda
